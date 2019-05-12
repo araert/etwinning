@@ -29,3 +29,4 @@ Fuente: [eTwinning.es](http://etwinning.es/)
 - [Blog Educalab: ¿Has evaluado ya tu proyecto eTwinning?](http://blog.educalab.es/intef/2014/03/25/has-evaluado-ya-tu-proyecto-etwinning/)
 
 - [Portal eTwinning: La evaluación en proyectos ¡Viva la rúbrica!](http://etwinning.es/la-evaluacion-en-proyectos-viva-la-rubrica/?lang=es)
+http://cedec.intef.es/7-elementos-esenciales-del-abp/ (7 elementos clave para llevar a cabo con éxito un proyecto ABP)
